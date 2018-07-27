@@ -1,0 +1,7 @@
+C:\Users\AMBER\Desktop\testeSuites\bin\Debug\testeSuites.exe.config
+C:\Users\AMBER\Desktop\testeSuites\bin\Debug\testeSuites.exe
+C:\Users\AMBER\Desktop\testeSuites\bin\Debug\testeSuites.pdb
+C:\Users\AMBER\Desktop\testeSuites\obj\Debug\testeSuites.csprojAssemblyReference.cache
+C:\Users\AMBER\Desktop\testeSuites\obj\Debug\testeSuites.csproj.CoreCompileInputs.cache
+C:\Users\AMBER\Desktop\testeSuites\obj\Debug\testeSuites.exe
+C:\Users\AMBER\Desktop\testeSuites\obj\Debug\testeSuites.pdb
